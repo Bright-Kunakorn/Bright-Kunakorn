@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/Leetcode-F7DF1E?style=for-the-badge&logo=leetcode&logoColor=black" alt="Bright-Kunakorn" />
  </a> 
  <a href="https://www.hackerrank.com/profile/bright_kunakorn" target="_blank">
-  <img src="https://img.shields.io/badge/www.hackerrank.com-F7DF1A?style=for-the-badge&logo=leetcode&logoColor=black" alt="Kunakorn Topurin" />
+  <img src="https://img.shields.io/badge/hackerrank-F7DF1A?style=for-the-badge&logo=hackerrank&logoColor=black" alt="Kunakorn Topurin" />
  </a> 
 </p>
 <br />
