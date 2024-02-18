@@ -31,12 +31,12 @@
  <a href="https://instagram.com/j3right" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Bright-Kunakorn" />
  </a> 
+ <a href="https://www.hackerrank.com/profile/bright_kunakorn" target="_blank">
+  <img src="https://img.shields.io/badge/hackerrank-00A36C?style=for-the-badge&logo=hackerrank&logoColor=black" alt="Kunakorn Topurin" />
+ </a>
   <a href="https://leetcode.com/Bright-Kunakorn/" target="_blank">
   <img src="https://img.shields.io/badge/Leetcode-F7DF1E?style=for-the-badge&logo=leetcode&logoColor=black" alt="Bright-Kunakorn" />
  </a> 
-  <a href="https://www.hackerrank.com/profile/bright_kunakorn" target="_blank">
-  <img src="https://img.shields.io/badge/hackerrank-00A36C?style=for-the-badge&logo=hackerrank&logoColor=black" alt="Kunakorn Topurin" />
-</a>
 </p>
 <br />
 
