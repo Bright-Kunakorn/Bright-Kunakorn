@@ -100,7 +100,11 @@
 <hr/>
 <br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunakorn-topurin&" alt="kunakorn-topurin" /></p>
+<p align="center">
+  <a href="https://github.com/Bright-Kunakorn">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bright-Kunakorn&" alt="Kunakorn Topurin's GitHub Contribution"/>
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/Bright-Kunakorn">
