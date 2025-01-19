@@ -101,7 +101,7 @@
 <br/>
 
 <p align="center">
-  <a href="[https://github-readme-streak-stats.herokuapp.com/?user=Bright-Kunakorn&theme=radical](https://streak-stats.demolab.com/?user=Bright-Kunakorn&theme=dark)">
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=Bright-Kunakorn&theme=radical">
     <img src="https://streak-stats.demolab.com/?user=Bright-Kunakorn&theme=dark" alt="Bright-Kunakorn's GitHub streak"/>
   </a>
 </p>
