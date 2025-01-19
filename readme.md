@@ -102,7 +102,7 @@
 
 <p align="center">
   <p href="https://github.com/Bright-Kunakorn">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bright-Kunakorn&theme=radical" alt="Kunakorn Topurin's GitHub Contribution"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bright-Kunakorn&t" alt="Kunakorn Topurin's GitHub Contribution"/>
   </p>
 </p>
 
