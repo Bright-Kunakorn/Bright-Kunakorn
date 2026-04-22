@@ -33,7 +33,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="300" src="/assets/avatar.png" alt="Avatar" style="border-radius: 10px; margin: 0 0 15px 15px;"/>
+<img align="right" width="280" src="/assets/avatar.png" alt="Avatar" style="border-radius: 10px; margin: 0 0 5px 15px;"/>
 
 Hi! I'm **Kunakorn Topurin**, an **Infrastructure Specialist** at **2C2P** based in **Bangkok, Thailand**. 
 
@@ -55,7 +55,7 @@ With **4+ years of software development experience**, I specialize in:
 - 💼 **LinkedIn:** [kunakorn-topurin](https://www.linkedin.com/in/kunakorn-topurin/)
 - 💬 **Ask me anything:** [Open an issue](https://github.com/Bright-Kunakorn/Bright-Kunakorn/issues)
 
-<br clear="right"/>
+<div style="clear: right; height: 0;"></div>
 
 ---
 
