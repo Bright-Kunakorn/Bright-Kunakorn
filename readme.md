@@ -1,120 +1,142 @@
-<h2 align="center">
-  Welcome to My GitHub! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
+<div align="center">
+  <h1>👋 Welcome to My GitHub!</h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" alt="wave"/>
+  
+  <p>
+    <a href="https://github.com/Bright-Kunakorn"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;Open%20Source%20Enthusiast;Always%20Learning%20%26%20Growing&center=true&width=400&height=50&color=7F3FBF&vCenter=true"></a>
+  </p>
 
-<p align="center">
-  <a href="https://github.com/Bright-Kunakorn"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;Open%20Source%20Enthusiast;Always%20Learning%20&%20Growing&center=true&width=380&height=45"></a>
-</p>
+  <p>
+    <a href="https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc" target="_blank">
+      <img src="https://img.shields.io/badge/WakaTime-Tracking%20Code%20Time-blue?style=for-the-badge&logo=wakatime&logoColor=white" alt="WakaTime"/>
+    </a>
+  </p>
 
-<p align="center">
-  <a href="https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc" target="_blank">
-    <img src="https://img.shields.io/badge/WakaTime-Tracking%20Code%20Time-blue?style=for-the-badge&logo=wakatime&logoColor=white" alt="WakaTime"/>
-  </a>
-</p>
+  <h3>🔗 Connect with Me</h3>
+  <p>
+    <a href="https://linkedin.com/in/kunakorn-topurin" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://instagram.com/j3right" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a> 
+    <a href="https://www.hackerrank.com/profile/bright_kunakorn" target="_blank">
+      <img src="https://img.shields.io/badge/HackerRank-00A36C?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+    </a>
+    <a href="https://leetcode.com/Bright-Kunakorn/" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+    </a> 
+  </p>
+</div>
 
-<h3 align="center">
-  <samp>👋 Hi, I'm <b>Kunakorn Topurin</b></samp>
-</h3>
-
-
-### 🔗 Connect with Me
-
-<p align="center">
- <a href="https://linkedin.com/in/kunakorn-topurin" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
- </a>
- <a href="https://instagram.com/j3right" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
- </a> 
- <a href="https://www.hackerrank.com/profile/bright_kunakorn" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-00A36C?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
- </a>
- <a href="https://leetcode.com/Bright-Kunakorn/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
- </a> 
-</p>
+---
 
 ## 👨‍💻 About Me
 
-<img align="right" width="350" src="/assets/avatar.png" alt="Avatar" />
+<img align="right" width="320" src="/assets/avatar.png" alt="Avatar" style="border-radius: 10px; margin: 0 0 20px 20px;"/>
 
 - ✌️ **Passionate** about programming and sharing knowledge with the community
-- ❤️ **Love** writing clean code and exploring new technologies
+- ❤️ **Love** writing clean code and exploring new technologies  
 - 🚀 **Enthusiast** for building innovative proof-of-concepts and side projects
-- 📧 **Reach me:** kunakorn_topu@hotmail.com
+- 📧 **Email:** [kunakorn_topu@hotmail.com](mailto:kunakorn_topu@hotmail.com)
 - 💬 **Ask me anything:** [Open an issue](https://github.com/Bright-Kunakorn/Bright-Kunakorn/issues)
+
+<br clear="right"/>
 
 ---
 
 ## 🛠️ Languages & Tools
 
-### **Languages**
-![Go](https://img.shields.io/badge/Go-007acc?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white) 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) 
-![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assembly&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
+### 📝 Languages
+<div>
+  <img src="https://img.shields.io/badge/Go-007acc?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+</div>
 
-### **Frontend**
-![HTML](https://img.shields.io/badge/HTML5-4479A1?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![ReactJS](https://img.shields.io/badge/ReactJS-00ADD8?style=for-the-badge&logo=react&logoColor=white) 
-![VueJS](https://img.shields.io/badge/VueJS-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white) 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
+<div style="margin-top: 8px;">
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" alt="NoSQL"/>
+  <img src="https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assembly&logoColor=white" alt="Assembly"/>
+</div>
 
-### **Backend & Frameworks**
-![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white) 
-![.Net](https://img.shields.io/badge/.Net-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+### 🎨 Frontend
+<div>
+  <img src="https://img.shields.io/badge/HTML5-4479A1?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/ReactJS-00ADD8?style=for-the-badge&logo=react&logoColor=white" alt="ReactJS"/>
+  <img src="https://img.shields.io/badge/VueJS-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="VueJS"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+</div>
 
-### **Databases**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) 
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) 
+### ⚙️ Backend & Frameworks
+<div>
+  <img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
+  <img src="https://img.shields.io/badge/.Net-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".Net"/>
+</div>
 
-### **Cloud & DevOps**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) 
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) 
+### 💾 Databases
+<div>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+</div>
 
-### **Message Queuing & Monitoring**
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white) 
-![ELK](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elasticsearch&logoColor=white) 
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-555?style=for-the-badge&logo=opentelemetry&logoColor=white)
+### ☁️ Cloud & DevOps
+<div>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
+</div>
 
-### **Version Control**
-![GitLab/GitHub](https://img.shields.io/badge/GitLab%2FGitHub-FCA121?style=for-the-badge&logo=git&logoColor=white) 
+### 📡 Message Queuing & Monitoring
+<div>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka"/>
+  <img src="https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="ELK"/>
+  <img src="https://img.shields.io/badge/OpenTelemetry-555?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry"/>
+  <img src="https://img.shields.io/badge/GitLab%2FGitHub-FCA121?style=for-the-badge&logo=git&logoColor=white" alt="GitHub"/>
+</div>
 
 ---
 
 ## 📊 GitHub Statistics
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/Bright-Kunakorn">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bright-Kunakorn&theme=radical&border=7F3FBF&background=0D1117" alt="GitHub Streak Stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bright-Kunakorn&theme=radical&border=7F3FBF&background=0D1117" alt="GitHub Streak Stats" width="100%"/>
   </a>
-</p>
+</div>
 
-<p align="center">
+<div align="center" style="margin-top: 20px;">
   <a href="https://github.com/Bright-Kunakorn">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bright-Kunakorn&theme=radical" alt="GitHub Contribution Stats"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bright-Kunakorn&theme=radical" alt="GitHub Contribution Stats" width="100%"/>
   </a>
-</p>
+</div>
 
-<p align="center">
-  <a href="https://github.com/Bright-Kunakorn"><img alt="GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Bright-Kunakorn&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/Bright-Kunakorn"><img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Bright-Kunakorn&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-</p>
+<div align="center" style="margin-top: 20px;">
+  <a href="https://github.com/Bright-Kunakorn">
+    <img alt="GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Bright-Kunakorn&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="49%"/>
+  </a>
+  <a href="https://github.com/Bright-Kunakorn">
+    <img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Bright-Kunakorn&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="49%"/>
+  </a>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bright-Kunakorn&custom_title=Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="GitHub Activity Graph"/>
-</p>
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bright-Kunakorn&custom_title=Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="GitHub Activity Graph" width="100%"/>
+</div>
+
+---
+
+<div align="center">
+  <p><strong>Thanks for visiting my profile! Happy coding! 🚀</strong></p>
+</div>
