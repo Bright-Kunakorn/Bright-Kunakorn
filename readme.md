@@ -33,7 +33,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="320" src="/assets/avatar.png" alt="Avatar" style="border-radius: 10px; margin: 0 0 20px 20px;"/>
+<img align="right" width="300" src="/assets/avatar.png" alt="Avatar" style="border-radius: 10px; margin: 0 0 15px 15px;"/>
 
 - ✌️ **Passionate** about programming and sharing knowledge with the community
 - ❤️ **Love** writing clean code and exploring new technologies  
@@ -56,8 +56,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
 </div>
-
-<div style="margin-top: 8px;">
+<div>
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
@@ -114,25 +113,21 @@
   <a href="https://github.com/Bright-Kunakorn">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bright-Kunakorn&theme=radical&border=7F3FBF&background=0D1117" alt="GitHub Streak Stats" width="100%"/>
   </a>
-</div>
 
-<div align="center" style="margin-top: 20px;">
   <a href="https://github.com/Bright-Kunakorn">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bright-Kunakorn&theme=radical" alt="GitHub Contribution Stats" width="100%"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bright-Kunakorn&theme=radical" alt="GitHub Contribution Stats" width="100%" style="margin-top: 10px;"/>
   </a>
-</div>
 
-<div align="center" style="margin-top: 20px;">
-  <a href="https://github.com/Bright-Kunakorn">
-    <img alt="GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Bright-Kunakorn&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="49%"/>
-  </a>
-  <a href="https://github.com/Bright-Kunakorn">
-    <img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Bright-Kunakorn&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="49%"/>
-  </a>
-</div>
+  <div style="margin-top: 10px; display: flex; justify-content: center; gap: 10px;">
+    <a href="https://github.com/Bright-Kunakorn" style="flex: 1;">
+      <img alt="GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Bright-Kunakorn&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="100%"/>
+    </a>
+    <a href="https://github.com/Bright-Kunakorn" style="flex: 1;">
+      <img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Bright-Kunakorn&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="100%"/>
+    </a>
+  </div>
 
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bright-Kunakorn&custom_title=Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="GitHub Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bright-Kunakorn&custom_title=Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="GitHub Activity Graph" width="100%" style="margin-top: 10px;"/>
 </div>
 
 ---
