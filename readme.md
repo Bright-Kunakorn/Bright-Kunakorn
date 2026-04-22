@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc" target="_blank">
-    <img src="https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc/all.svg" alt="WakaTime Stats"/>
+    <img src="https://img.shields.io/badge/WakaTime-Tracking%20Code%20Time-blue?style=for-the-badge&logo=wakatime&logoColor=white" alt="WakaTime"/>
   </a>
 </p>
 
