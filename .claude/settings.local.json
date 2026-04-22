@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git add *)",
+      "Bash(git commit -m 'Replace wakatime badge with static shields.io badge *)",
+      "Bash(git push *)",
+      "Bash(git commit -m 'Replace programmer GIF with Dicebear avatar *)",
+      "Bash(git commit -m 'Try personas style Dicebear avatar *)",
+      "Bash(git commit -m 'Try lorelei style Dicebear avatar *)",
+      "Bash(git commit -m 'Update avatar to custom illustration *)"
+    ]
+  }
+}
