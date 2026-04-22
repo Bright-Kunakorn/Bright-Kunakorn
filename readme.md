@@ -124,22 +124,40 @@ With **4+ years of software development experience**, I specialize in:
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <a href="https://github.com/Bright-Kunakorn">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bright-Kunakorn&theme=radical&border=7F3FBF&background=0D1117" alt="GitHub Streak Stats" width="90%"/>
-  </a>
-
-  <div style="margin-top: 8px; display: flex; justify-content: center; gap: 8px;">
-    <a href="https://github.com/Bright-Kunakorn" style="flex: 1; max-width: 45%;">
-      <img alt="GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Bright-Kunakorn&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&hide=contribs" width="100%"/>
-    </a>
-    <a href="https://github.com/Bright-Kunakorn" style="flex: 1; max-width: 45%;">
-      <img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Bright-Kunakorn&langs_count=6&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="100%"/>
-    </a>
-  </div>
-
-  <a href="https://github.com/Bright-Kunakorn">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bright-Kunakorn&custom_title=Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="GitHub Activity Graph" width="90%" style="margin-top: 8px;"/>
-  </a>
+  <table style="width: 100%; border-collapse: collapse;">
+    <tr>
+      <td style="text-align: center; padding: 5px;">
+        <a href="https://github.com/Bright-Kunakorn">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bright-Kunakorn&theme=radical&border=7F3FBF&background=0D1117&ring=7F3FBF" alt="GitHub Streak Stats" width="95%"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: center; padding: 3px 5px;">
+        <table style="width: 100%; border-collapse: collapse;">
+          <tr>
+            <td style="width: 48%; text-align: center; padding: 3px;">
+              <a href="https://github.com/Bright-Kunakorn">
+                <img alt="GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Bright-Kunakorn&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&hide=contribs&rank_icon=github" width="100%"/>
+              </a>
+            </td>
+            <td style="width: 52%; text-align: center; padding: 3px;">
+              <a href="https://github.com/Bright-Kunakorn">
+                <img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Bright-Kunakorn&langs_count=6&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="100%"/>
+              </a>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: center; padding: 5px;">
+        <a href="https://github.com/Bright-Kunakorn">
+          <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bright-Kunakorn&custom_title=Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="GitHub Activity Graph" width="95%"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
