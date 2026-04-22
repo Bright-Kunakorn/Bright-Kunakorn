@@ -41,7 +41,7 @@
 - ✌️ **Passionate** about programming and sharing knowledge with the community
 - ❤️ **Love** writing clean code and exploring new technologies
 - 🚀 **Enthusiast** for building innovative proof-of-concepts and side projects
-- 📧 **Reach me:** kunakorntopu@gmail.com
+- 📧 **Reach me:** kunakorn_topu@hotmail.com
 - 💬 **Ask me anything:** [Open an issue](https://github.com/Bright-Kunakorn/Bright-Kunakorn/issues)
 
 ---
