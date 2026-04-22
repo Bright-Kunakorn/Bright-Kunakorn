@@ -35,6 +35,8 @@
 
 <img align="right" width="280" src="/assets/avatar.png" alt="Avatar" style="border-radius: 10px; margin: 0 0 5px 15px;"/>
 
+Hi! I'm **Kunakorn Topurin**, an Infrastructure Specialist with 4+ years of experience in software development. I specialize in building scalable systems and innovative solutions using Go, .NET, TypeScript, and AWS.
+
 - ✌️ Passionate about programming and sharing knowledge with the community
 - ❤️ Love writing clean, maintainable code and exploring cutting-edge technologies
 - 🚀 Enthusiast for building innovative infrastructure solutions and proof-of-concepts
