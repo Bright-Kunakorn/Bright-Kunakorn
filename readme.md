@@ -35,10 +35,24 @@
 
 <img align="right" width="300" src="/assets/avatar.png" alt="Avatar" style="border-radius: 10px; margin: 0 0 15px 15px;"/>
 
-- ✌️ **Passionate** about programming and sharing knowledge with the community
-- ❤️ **Love** writing clean code and exploring new technologies  
-- 🚀 **Enthusiast** for building innovative proof-of-concepts and side projects
+Hi! I'm **Kunakorn Topurin**, an **Infrastructure Specialist** at **2C2P** based in **Bangkok, Thailand**. 
+
+With **4+ years of software development experience**, I specialize in:
+- 🏗️ **Infrastructure & DevOps** - Designing and maintaining scalable systems
+- 🔧 **Back-end Development** - Building robust and efficient applications
+- ☁️ **Cloud Solutions** - AWS expertise for modern cloud architecture
+- 💻 **Languages & Frameworks** - Go, .NET, TypeScript for enterprise applications
+
+**What I Do:**
+- ✌️ Passionate about programming and sharing knowledge with the community
+- ❤️ Love writing clean, maintainable code and exploring cutting-edge technologies
+- 🚀 Enthusiast for building innovative infrastructure solutions and proof-of-concepts
+- 📊 Focused on optimizing system performance and reliability
+- 🤝 Dedicated to continuous learning and professional growth
+
+**Let's Connect:**
 - 📧 **Email:** [kunakorn_topu@hotmail.com](mailto:kunakorn_topu@hotmail.com)
+- 💼 **LinkedIn:** [kunakorn-topurin](https://www.linkedin.com/in/kunakorn-topurin/)
 - 💬 **Ask me anything:** [Open an issue](https://github.com/Bright-Kunakorn/Bright-Kunakorn/issues)
 
 <br clear="right"/>
