@@ -36,7 +36,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="350" src="https://api.dicebear.com/7.x/lorelei/svg?seed=Bright-Kunakorn&scale=80" alt="Avatar" />
+<img align="right" width="350" src="/assets/489955E9-E195-4EB7-A1C2-A4C5A7E12FB3.png" alt="Avatar" />
 
 - ✌️ **Passionate** about programming and sharing knowledge with the community
 - ❤️ **Love** writing clean code and exploring new technologies
