@@ -35,15 +35,6 @@
 
 <img align="right" width="280" src="/assets/avatar.png" alt="Avatar" style="border-radius: 10px; margin: 0 0 5px 15px;"/>
 
-Hi! I'm **Kunakorn Topurin**, an **Infrastructure Specialist** at **2C2P** based in **Bangkok, Thailand**. 
-
-With **4+ years of software development experience**, I specialize in:
-- 🏗️ **Infrastructure & DevOps** - Designing and maintaining scalable systems
-- 🔧 **Back-end Development** - Building robust and efficient applications
-- ☁️ **Cloud Solutions** - AWS expertise for modern cloud architecture
-- 💻 **Languages & Frameworks** - Go, .NET, TypeScript for enterprise applications
-
-**What I Do:**
 - ✌️ Passionate about programming and sharing knowledge with the community
 - ❤️ Love writing clean, maintainable code and exploring cutting-edge technologies
 - 🚀 Enthusiast for building innovative infrastructure solutions and proof-of-concepts
