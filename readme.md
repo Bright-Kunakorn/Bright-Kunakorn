@@ -118,7 +118,7 @@ Hi! I'm **Kunakorn Topurin**, an Infrastructure Specialist with 4+ years of expe
 
 ### 💰 Thai MF Advisor
 AI-powered mutual fund recommendation platform
-[Live Demo](https://thai-mf-advisor.onrender.com/)
+[Live](https://thai-mf-advisor.onrender.com/)
 
 ---
 
